@@ -20,7 +20,7 @@ public class ArraysDemo {
         Scanner input = new Scanner(System.in);
         
         String myWord = input.nextLine();
-        
+        //commit 2
         char[] myLetters = new char[myWord.length()];
         //commit 1
         for(int i =0;i<myLetters.length;i++){
