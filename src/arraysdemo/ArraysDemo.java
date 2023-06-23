@@ -19,6 +19,7 @@ public class ArraysDemo {
         System.out.println("Enter a word");
         Scanner input = new Scanner(System.in);
         //commit 3
+        //commit on 9:07
         String myWord = input.nextLine();
         //commit 2
         char[] myLetters = new char[myWord.length()];
