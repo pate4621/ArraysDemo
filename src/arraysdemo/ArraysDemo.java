@@ -18,7 +18,7 @@ public class ArraysDemo {
         // TODO code application logic here
         System.out.println("Enter a word");
         Scanner input = new Scanner(System.in);
-        
+        //commit 2
         String myWord = input.nextLine();
         
         char[] myLetters = new char[myWord.length()];
